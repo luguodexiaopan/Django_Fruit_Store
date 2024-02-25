@@ -1,20 +1,18 @@
-Here's the translation of the provided content into English:
-
-Link: [https://cloud.189.cn/t/EFJNveYN3mUj](https://cloud.189.cn/t/EFJNveYN3mUj) (Access Code: ap2e)
-Debugging and modification tutorial: [https://cloud.189.cn/t/rYVzAzIJBbiy](https://cloud.189.cn/t/rYVzAzIJBbiy) (Access Code: r9ly)
-[https://cloud.189.cn/t/iuIzIbvIra2y](https://cloud.189.cn/t/iuIzIbvIra2y) (Access Code: 60ys)
+Link: [https://cloud.189.cn/t/EFJNveYN3mUj](https://cloud.189.cn/t/EFJNveYN3mUj) 
+Debugging and modification tutorial: [https://cloud.189.cn/t/rYVzAzIJBbiy](https://cloud.189.cn/t/rYVzAzIJBbiy) 
+[https://cloud.189.cn/t/iuIzIbvIra2y](https://cloud.189.cn/t/iuIzIbvIra2y) 
 
 1. Tutorial for modifying the database name
-Link: [https://cloud.189.cn/t/nUFb6jyEv2iy](https://cloud.189.cn/t/nUFb6jyEv2iy) (Access Code: l0qf)
+Link: [https://cloud.189.cn/t/nUFb6jyEv2iy](https://cloud.189.cn/t/nUFb6jyEv2iy) 
 
 2. View the corresponding code tutorial
-Link: [https://cloud.189.cn/t/yIJRnaqU322e](https://cloud.189.cn/t/yIJRnaqU322e) (Access Code: 9eui)
+Link: [https://cloud.189.cn/t/yIJRnaqU322e](https://cloud.189.cn/t/yIJRnaqU322e) 
 
 3. Tutorial for modifying text in the backend
-Link: [https://cloud.189.cn/t/3YZ3ueAjEJNv](https://cloud.189.cn/t/3YZ3ueAjEJNv) (Access Code: wy1p)
+Link: [https://cloud.189.cn/t/3YZ3ueAjEJNv](https://cloud.189.cn/t/3YZ3ueAjEJNv) 
 
 4. Replace the background image in the backend
-Link: [https://cloud.189.cn/t/yANNB3b26bQv](https://cloud.189.cn/t/yANNB3b26bQv) (Access Code: pex5)
+Link: [https://cloud.189.cn/t/yANNB3b26bQv](https://cloud.189.cn/t/yANNB3b26bQv) 
 
 5. Installation instructions for packages:
 ```bash
